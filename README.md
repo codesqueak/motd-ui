@@ -1,2 +1,4 @@
-# motd-ui
-A Simple MOTD UI - Components for gitops Example
+# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+

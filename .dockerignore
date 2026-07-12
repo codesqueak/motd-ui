@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.git
+.gitignore
+.github
+.idea
+README.md
+*.md
+coverage
+.env
+.env.*
+!.env.example
